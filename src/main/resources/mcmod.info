@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ziynoaddons",
+  "name": "Ziyno Addons",
+  "description": "Ziyno Addons.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ziyno"],
+  "credits": "The Forge and FML team.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
